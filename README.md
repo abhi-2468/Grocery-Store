@@ -6,13 +6,13 @@ A full-stack e-commerce project built with Postgresql, Express, React and Node.
 Clone the project
 
 ```bash
-  git clone https://github.com/dhatguy/PERN-Store.git
+  git clone https://github.com/abhi-2468/Grocery-Store.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd PERN-Store
+  cd Grocery-Store
 ```
 
 Install dependencies
